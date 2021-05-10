@@ -12,7 +12,7 @@ display:flex;
 justify-content:space-between
 }
 
-.grid{
+.parent{
     display: flex;
     flex-wrap: wrap;
     justify-content: space-evenly;
